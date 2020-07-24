@@ -1,0 +1,5 @@
+description = "主要用于练手"
+
+dependencies {
+    compile(project(":spring-context"))
+}
